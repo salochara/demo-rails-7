@@ -75,6 +75,7 @@
     <orderEntry type="library" scope="PROVIDED" name="net-smtp (v0.3.1, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.5.8, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.13.3, rbenv: 2.7.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pg (v1.3.3, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.6, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puma (v5.6.2, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.6.0, rbenv: 2.7.3) [gem]" level="application" />
@@ -94,7 +95,6 @@
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v4.1.0, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.0.3, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.4.2, rbenv: 2.7.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.4.2, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="stimulus-rails (v1.0.4, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="strscan (v3.0.1, rbenv: 2.7.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tailwindcss-rails (v2.0.7, rbenv: 2.7.3) [gem]" level="application" />

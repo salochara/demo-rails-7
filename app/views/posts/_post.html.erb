@@ -9,6 +9,17 @@
     <%= post.content %>
   </p>
 
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Posted:</strong>
+    <%= time_tag post.created_at, "data-local": "time-ago" %>
+  </p>
+
+  <p class="my-5">
+    <strong class="block font-medium mb-1">Last updated at:</strong>
+    <%= time_tag post.updated_at, "data-local": "time-ago" %>
+  </p>
+
+
   <% if action_name != "show" %>
     <%= link_to "Show this post", post, class: "rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
     <%= link_to 'Edit this post', edit_post_path(post), class: "rounded-lg py-3 ml-2 px-5 bg-gray-100 inline-block font-medium" %>
